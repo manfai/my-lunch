@@ -1,6 +1,9 @@
 2019-01-14
 =============
-> npm install
+岩岩down落黎請係cmd打一次
+```console
+npm install
+```
 
 
 2019-01-05
