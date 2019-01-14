@@ -1,0 +1,4 @@
+#Tue Jan 08 10:29:58 HKT 2019
+base.0=/Users/mwf/Sites/MyLunch/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex

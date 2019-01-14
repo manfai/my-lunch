@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-serialport] /Users/mwf/Sites/MyLunch/node_modules/react-native-serialport/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-15:12
+MERGED from [usbserial-4.5.2-release.aar] /Users/mwf/.gradle/caches/transforms-1/files-1.1/usbserial-4.5.2-release.aar/169240b550183b08f26a6da9e6a188eb/AndroidManifest.xml:2:1-10:12
+MERGED from [:react-native-usbserial] /Users/mwf/Sites/MyLunch/node_modules/react-native-usbserial/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-vector-icons] /Users/mwf/Sites/MyLunch/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/mwf/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/516c2018cd094ed646ae63dca1e0920f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/baac25807ac9a339c2b3d0f5a11a77ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.hoho.android:usb-serial-for-android:0.2.0-SNAPSHOT] /Users/mwf/.gradle/caches/transforms-1/files-1.1/usb-serial-for-android-0.2.0-SNAPSHOT.aar/b24ad393a4990f35e2a98a0096dd2e3b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ebdab50294f77f18c109ec3fba8d769b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e60e1d99efa4e9d784f2472a681fb83c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ac580bb9e7ef139e3015950e1a4861e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5aca3a54999c2d043c7ee156b363cea4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6e2e03de63f22becba97efe66e9509f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6e53a19b21dead2118d2a721ba254c5f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/be9c230a5cffabcf5a5d6cef91833ec8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da5f41fbb098b9f108c4ad03e9e8fc15/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1c925aaa596e0a9698a25e04ed09b620/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e164dad1e1b6bbe9f50545ff046ae8b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/def173fa52e257ba88dd74db3c64bd82/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/548c0e4ceae6a44dca82378ea580fa44/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/913bf9cefa29b061b4d9326481139f55/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/884b50116a88db5e519d304e1ca91bad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/720e08ca79a0cd7a03f8e4a321091d3c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/35c8f913381a5710ecab4793d95e716d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/mwf/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/345e3357e6df176607ef425feafc7c2c/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/153e7604c909a721cb7513d6e02ebe4a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/mwf/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/516c2018cd094ed646ae63dca1e0920f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/mwf/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/516c2018cd094ed646ae63dca1e0920f/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/mwf/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/516c2018cd094ed646ae63dca1e0920f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/mwf/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/516c2018cd094ed646ae63dca1e0920f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/35c8f913381a5710ecab4793d95e716d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/35c8f913381a5710ecab4793d95e716d/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/mwf/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/345e3357e6df176607ef425feafc7c2c/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/mwf/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/345e3357e6df176607ef425feafc7c2c/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.mylunch.MainActivity
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-serialport] /Users/mwf/Sites/MyLunch/node_modules/react-native-serialport/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-serialport] /Users/mwf/Sites/MyLunch/node_modules/react-native-serialport/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [usbserial-4.5.2-release.aar] /Users/mwf/.gradle/caches/transforms-1/files-1.1/usbserial-4.5.2-release.aar/169240b550183b08f26a6da9e6a188eb/AndroidManifest.xml:6:5-8:41
+MERGED from [usbserial-4.5.2-release.aar] /Users/mwf/.gradle/caches/transforms-1/files-1.1/usbserial-4.5.2-release.aar/169240b550183b08f26a6da9e6a188eb/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-usbserial] /Users/mwf/Sites/MyLunch/node_modules/react-native-usbserial/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-usbserial] /Users/mwf/Sites/MyLunch/node_modules/react-native-usbserial/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mwf/Sites/MyLunch/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mwf/Sites/MyLunch/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/mwf/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/516c2018cd094ed646ae63dca1e0920f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/mwf/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/516c2018cd094ed646ae63dca1e0920f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/baac25807ac9a339c2b3d0f5a11a77ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/baac25807ac9a339c2b3d0f5a11a77ab/AndroidManifest.xml:20:5-44
+MERGED from [com.hoho.android:usb-serial-for-android:0.2.0-SNAPSHOT] /Users/mwf/.gradle/caches/transforms-1/files-1.1/usb-serial-for-android-0.2.0-SNAPSHOT.aar/b24ad393a4990f35e2a98a0096dd2e3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hoho.android:usb-serial-for-android:0.2.0-SNAPSHOT] /Users/mwf/.gradle/caches/transforms-1/files-1.1/usb-serial-for-android-0.2.0-SNAPSHOT.aar/b24ad393a4990f35e2a98a0096dd2e3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ebdab50294f77f18c109ec3fba8d769b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ebdab50294f77f18c109ec3fba8d769b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e60e1d99efa4e9d784f2472a681fb83c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e60e1d99efa4e9d784f2472a681fb83c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ac580bb9e7ef139e3015950e1a4861e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ac580bb9e7ef139e3015950e1a4861e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5aca3a54999c2d043c7ee156b363cea4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5aca3a54999c2d043c7ee156b363cea4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6e2e03de63f22becba97efe66e9509f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6e2e03de63f22becba97efe66e9509f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6e53a19b21dead2118d2a721ba254c5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6e53a19b21dead2118d2a721ba254c5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/be9c230a5cffabcf5a5d6cef91833ec8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/be9c230a5cffabcf5a5d6cef91833ec8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da5f41fbb098b9f108c4ad03e9e8fc15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da5f41fbb098b9f108c4ad03e9e8fc15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1c925aaa596e0a9698a25e04ed09b620/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1c925aaa596e0a9698a25e04ed09b620/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e164dad1e1b6bbe9f50545ff046ae8b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e164dad1e1b6bbe9f50545ff046ae8b4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/def173fa52e257ba88dd74db3c64bd82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/def173fa52e257ba88dd74db3c64bd82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/548c0e4ceae6a44dca82378ea580fa44/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/548c0e4ceae6a44dca82378ea580fa44/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/913bf9cefa29b061b4d9326481139f55/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/913bf9cefa29b061b4d9326481139f55/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/884b50116a88db5e519d304e1ca91bad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/884b50116a88db5e519d304e1ca91bad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/720e08ca79a0cd7a03f8e4a321091d3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/720e08ca79a0cd7a03f8e4a321091d3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/35c8f913381a5710ecab4793d95e716d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/mwf/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/35c8f913381a5710ecab4793d95e716d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/153e7604c909a721cb7513d6e02ebe4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/mwf/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/153e7604c909a721cb7513d6e02ebe4a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from [:react-native-serialport] /Users/mwf/Sites/MyLunch/node_modules/react-native-serialport/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-13:35
+MERGED from [:react-native-usbserial] /Users/mwf/Sites/MyLunch/node_modules/react-native-usbserial/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-62
+MERGED from [:react-native-usbserial] /Users/mwf/Sites/MyLunch/node_modules/react-native-usbserial/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-62
+	android:required
+		ADDED from [:react-native-serialport] /Users/mwf/Sites/MyLunch/node_modules/react-native-serialport/android/build/intermediates/manifests/full/release/AndroidManifest.xml:13:9-32
+		MERGED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:11:5-13:35
+	android:name
+		ADDED from [:react-native-serialport] /Users/mwf/Sites/MyLunch/node_modules/react-native-serialport/android/build/intermediates/manifests/full/release/AndroidManifest.xml:12:9-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/mwf/Sites/MyLunch/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
